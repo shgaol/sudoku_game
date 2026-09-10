@@ -92,3 +92,7 @@ mingw32-make
 
 - 找不到 Qt：确认 `CMAKE_PREFIX_PATH` 指向 Qt 的 `mingw_XX` 目录。
 - 编译报错：请把错误信息完整复制给我，我会帮你修复。
+
+- # 程序界面
+- <img width="1275" height="854" alt="image" src="https://github.com/user-attachments/assets/35068e58-4a75-4776-8d8c-0476163d2720" />
+
