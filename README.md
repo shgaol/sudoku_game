@@ -73,7 +73,7 @@ sudoku_game/
 ### 方式一：Qt Creator（推荐）
 
 1. 打开 Qt Creator → `文件` → `打开文件或项目`，选择
-   `E:\Trae-Project\sudoku_game\CMakeLists.txt`
+   CMakeLists.txt`
 2. 选择 **MinGW** 工具链（Kit），点击"配置项目"
 3. 点击左下角 **构建**（锤子图标）即可生成 `SudokuGame.exe`
 
